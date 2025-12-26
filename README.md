@@ -15,5 +15,5 @@ Recently, I placed 3rd at the Pfizer Digital Hackathon and have participated in 
 
 ## Fun facts
 I love cats!
-I am learning animation using procreate
-My hobbies include painting, playing badminton, and reading
+I am learning animation using procreate.
+My hobbies include painting, playing badminton, and reading.
