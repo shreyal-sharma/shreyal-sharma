@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm **Shreyal Sharma**
 
-<!--
-**shreyal-sharma/shreyal-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/Welcome–to%20my%20GitHub%20Profile-blue)
 
-Here are some ideas to get you started:
+I am Shreyal, an undergrad student at NJIT. I am also a developer who enjoys exploring software engineering, machine learning, and app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When an idea pops into my head, chances are I will build it. 
+I’m a fast learner with a strong focus on full-stack development. My primary tech stack includes Python and Node.js for backend development, and React with JavaScript for building modern, responsive frontends
+
+My favorite planning tools are my iPad for raw ideas, a sheep plush for rubber-duck debugging, and Figma for designing and prototyping.
+
+I have got few pinned projects, but my favorite is [NeverSnooze](https://github.com/Group4And102/NeverSnooze).
+
+Recently, I placed 3rd at the Pfizer Digital Hackathon and have participated in many other hackathons, earning multiple wins along the way. 
+
+## Fun facts
+I love cats!
+I am learning animation using procreate
+My hobbies include painting, playing badminton, and reading
