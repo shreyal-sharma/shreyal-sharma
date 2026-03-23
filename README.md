@@ -11,7 +11,7 @@ My favorite planning tools are my iPad for raw ideas, a sheep plush for rubber-d
 
 I have got few pinned projects, but my favorite is [NeverSnooze](https://github.com/Group4And102/NeverSnooze).
 
-Recently, I placed 3rd at the Pfizer Digital Hackathon and have participated in many other hackathons, earning multiple wins along the way. 
+I placed 3rd at the Pfizer Digital Hackathon (2025) and have participated in many other hackathons like GirlHacks NJIT (2022), QuackHacks Stevens (2025), HackHers Rutgers (2024)
 
 ## Fun facts
 I love cats!
